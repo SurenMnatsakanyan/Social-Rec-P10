@@ -1,0 +1,8 @@
+Suren Mnatsakanyan
+https://github.com/SurenMnatsakanyan/Social-Rec-P10/tree/main
+D1-K=2.csv, 0.0015799999237060547
+D1-UNC.csv, 1.5666768550872803
+D2-K=7.csv, 0.6161346230073832
+D2-UNC.csv, 0.31217408180236816
+D3-K=12.csv, 0.06214308738708496
+D3-UNC.csv,0. 0.08818888664245605
